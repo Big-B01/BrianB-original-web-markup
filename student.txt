@@ -1,5 +1,5 @@
 Student name: Brian van den Berg
 Student number: 715628
-Student class: your IT1B
+Student class: your IT2A
 https://github.com/Big-B01/BrianB-original-web-markup/upload
 GitHub Pages URL: https://big-b01.github.io/BrianB-original-web-markup/index.html
